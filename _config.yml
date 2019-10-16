@@ -84,7 +84,7 @@ theme: cold-stone
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: 'https://github.com/chenEdgar/chenEdgar.github.io.git'
+  repository: 'https://github.com/chenEdgar/chenedgar.github.io.git'
   branch: gh-pages
   Username: chenEdgar
 
@@ -98,7 +98,7 @@ avatar: avatar.jpg
 
 # Utteranc comment system
 comment:
-  repo: chenEdgar/blog
+  repo: chenEdgar/chenedgar.github.io
 
 # sns link：
 sns:
@@ -107,4 +107,4 @@ sns:
 
 # page stat
 track:
-  gaid: xxxxxxxxxxxxxx
+  gaid: UA-149689984-1
